@@ -6,3 +6,5 @@ The public data set is taken from [The National Archives](https://webarchive.nat
 > Who is more likely to smoke? What is the most popular type of tobacco?
 > 
 > This data will allow you to look at the smoking habits of over 1000 participants.
+
+The data was first cleaned using python in the `data-cleaning.ipynb` notebook and then anaylyzed in the `r-analysis.ipynb` notebook.
